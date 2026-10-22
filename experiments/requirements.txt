@@ -1,0 +1,2 @@
+# Additional dependency for benchmark.py (basic run.py does not need it).
+psutil>=7,<8
